@@ -46,7 +46,7 @@ Events are emitted as prints for:
 - Contributions
 - Top-ups
 - Claims
-- 
+  
 ## License
 
 MIT License
